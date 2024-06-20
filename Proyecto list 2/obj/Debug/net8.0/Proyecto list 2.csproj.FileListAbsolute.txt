@@ -1,0 +1,14 @@
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\bin\Debug\net8.0\Proyecto list 2.exe
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\bin\Debug\net8.0\Proyecto list 2.deps.json
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\bin\Debug\net8.0\Proyecto list 2.runtimeconfig.json
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\bin\Debug\net8.0\Proyecto list 2.dll
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\bin\Debug\net8.0\Proyecto list 2.pdb
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.AssemblyInfoInputs.cache
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.AssemblyInfo.cs
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.csproj.CoreCompileInputs.cache
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.dll
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\refint\Proyecto list 2.dll
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.pdb
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\Proyecto list 2.genruntimeconfig.cache
+C:\Users\isa\Documents\primeros trabajos de C#\Trabajos listado\Proyecto list 2\obj\Debug\net8.0\ref\Proyecto list 2.dll
